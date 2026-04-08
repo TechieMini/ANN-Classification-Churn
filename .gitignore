@@ -8,6 +8,7 @@ __pycache__/
 
 # logs folder
 logs/
+regression_logs/
 
 # Distribution / packaging
 .Python
