@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+
 # logs folder
 logs/
 regression_logs/
@@ -209,3 +210,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
